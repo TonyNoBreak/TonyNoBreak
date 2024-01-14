@@ -1,4 +1,4 @@
-- 👀 I am interested in any work proposal or collaborative project, my current goal is to gain experience and improve as much as possible every day.
+# 👀 I am interested in any work proposal or collaborative project, my current goal is to gain experience and improve as much as possible every day.
   
 - 🌱 I am currently learning about the use of reactive frameworks and rapid methodologies;
   
